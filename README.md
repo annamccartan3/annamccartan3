@@ -24,5 +24,5 @@ Check out my [LinkedIn](https://www.linkedin.com/in/anna-mccartan/) for all of m
 <br />
 ---
 
-[website]: https://franjcf.github.io/
+[website]: https://github.com/annamccartan3
 [linkedin]: https://www.linkedin.com/in/anna-mccartan/
