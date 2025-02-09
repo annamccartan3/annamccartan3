@@ -1,8 +1,8 @@
 ## Hi there!
 
-I'm **Anna**, a senior studying biochemistry and data science at the University of Notre Dame. I'm excited about streamlining medical research and improving healthcare outcomes with computational tools!
+I'm **Anna**, a senior studying biochemistry and data science at the University of Notre Dame. I'm excited about streamlining medical research and improving healthcare outcomes with computational tools! In my free time, I enjoy hiking, mystery novels, and crossword puzzles!
 
-Check out my [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) for all of my recent projects.
+Check out my [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) to see the projects I'm working on this semester, including topics such as app design, data modeling, and artificial intelligence.
 
 ### Languages and Tools
 - Python
@@ -16,7 +16,14 @@ Check out my [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Scie
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br><br>
 
+### Goals
+- Communicate data stories by building interactive apps and dashboards.
+- Explore the fundamentals of NLP and fine-tuning LLMs.
+- Train, evaluate, and tune predictive models.
+<br><br>
+
 ### Connect with me
+[email]: amccarta@nd.edu
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
