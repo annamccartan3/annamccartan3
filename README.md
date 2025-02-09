@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm **Anna**, a senior studying biochemistry and data science at the University of Notre Dame. I'm excited about streamlining medical research and improving healthcare outcomes with computational tools! In my free time, I enjoy hiking, mystery novels, and crossword puzzles!
+I'm **Anna**, a senior studying biochemistry and data science at the University of Notre Dame. I'm excited about streamlining medical research and improving healthcare outcomes with computational tools. In my free time, I enjoy hiking, mystery novels, and crossword puzzles!
 
 Check out my [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) to see the projects I'm working on this semester, including topics such as app design, data modeling, and artificial intelligence.
 
