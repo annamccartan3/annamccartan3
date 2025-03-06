@@ -1,4 +1,4 @@
-## Hi there!
+## :sunflower: Hi there!
 
 I'm **Anna**, a senior studying biochemistry and data science at the University of Notre Dame. I'm excited about streamlining medical research and improving healthcare outcomes with computational tools. In my free time, I enjoy hiking, mystery novels, and crossword puzzles!
 
