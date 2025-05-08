@@ -33,15 +33,15 @@ I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry*
   
 ---
 
+### GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annamccartan3&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamccartan3&layout=compact)
+
+---
+
 ### Let's Connect!
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [annamccartan3@gmail.com](annamccartan3@gmail.com)
 
 
 [linkedin]: https://www.linkedin.com/in/anna-mccartan/
-
----
-
-### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annamccartan3&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamccartan3&layout=compact)
