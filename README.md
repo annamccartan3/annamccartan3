@@ -40,6 +40,8 @@ I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry*
 
 [linkedin]: https://www.linkedin.com/in/anna-mccartan/
 
-### GitHub Stats & Badges
+---
+
+### GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annamccartan3&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamccartan3&layout=compact)
