@@ -4,11 +4,27 @@ I'm **Anna**, a senior at the University of Notre Dame, studying biochemistry an
 
 Check out my [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) to explore my current projects, which cover topics such as app design, data modeling, and artificial intelligence.
 
-### Languages and Tools
-- Python
-- Scikit-Learn
-- SQL
-- Git & Github
+---
+
+### Skills & Interests
+
+- **Languages**: Python, SQL  
+- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit  
+- **Tools**: Git, GitHub, Jupyter, VS Code  
+- **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation, NLP, LLM fine-tuning  
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [**DataQuest 💡**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Explore unsupervised ML using clustering and PCA in a Streamlit app. |
+| [**DataFlex 🤖**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate supervised ML models interactively. |
+| [**DogFinder 🐶**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Discover dog breeds based on characteristics using a clean, interactive UI. |
+| [**Gold Standard 🏅**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/TidyData-Project) | Visualize and tidy Olympic data to uncover country-level trends. |
+
+[**See Full Porfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio)
 
 ### Goals
 - Communicate data insights through interactive apps and dashboards.
