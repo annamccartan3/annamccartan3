@@ -1,13 +1,13 @@
 ## :sunflower: Hi there!
 
-I'm **Anna**, a senior at the University of Notre Dame, studying biochemistry and data science. I’m passionate about employing computational tools to streamline medical research and improve healthcare outcomes. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
+I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry** and **Data Science**. I’m passionate about employing computational tools to streamline medical research and improve healthcare outcomes. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
 
 ---
 
 ### Goals
-- Communicate data insights through interactive apps and dashboards.
-- Explore the fundamentals of Natural Language Processing (NLP) and fine-tune large language models (LLMs).
-- Develop, evaluate, and optimize predictive models.
+- Communicate data insights through interactive apps and dashboards.  
+- Explore the fundamentals of Natural Language Processing (NLP) and fine-tune large language models (LLMs).  
+- Develop, evaluate, and optimize predictive models. 
 
 ---
 
@@ -39,3 +39,8 @@ I'm **Anna**, a senior at the University of Notre Dame, studying biochemistry an
 
 
 [linkedin]: https://www.linkedin.com/in/anna-mccartan/
+
+### GitHub Stats & Badges
+
+![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annamccartan3&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamccartan3&layout=compact)
