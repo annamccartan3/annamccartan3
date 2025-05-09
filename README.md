@@ -6,8 +6,8 @@ I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry*
 
 ### Goals
 - Communicate data insights through interactive apps and dashboards.  
+- Develop, evaluate, and optimize predictive models.
 - Explore the fundamentals of Natural Language Processing (NLP) and fine-tune large language models (LLMs).  
-- Develop, evaluate, and optimize predictive models. 
 
 ---
 
@@ -16,7 +16,7 @@ I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry*
 - **Languages**: Python, SQL  
 - **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit  
 - **Tools**: Git, GitHub, Jupyter, VS Code  
-- **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation, NLP, LLM fine-tuning  
+- **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation
 
 ---
 
