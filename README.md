@@ -17,8 +17,7 @@ I'm **Anna**, an incoming Master's student in **Bioinformatics & Computational B
 
 | Project | Description |
 |--------|-------------|
-| [**Leaderless Translation**](https://github.com/Champion-Lab/leaderlessTranslation) | Quantify and visualize leaderless translation efficiency in bacteria with this flexible script.
-|
+| [**Leaderless Translation**](https://github.com/Champion-Lab/leaderlessTranslation) | Quantify and visualize leaderless translation efficiency in bacteria with this flexible script. |
 | [**DataQuest 💡**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Explore unsupervised ML using clustering and PCA in a Streamlit app. |
 | [**DataFlex 🤖**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate supervised ML models interactively. |
 | [**DogFinder 🐶**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Discover dog breeds based on characteristics using a clean, interactive UI. |
