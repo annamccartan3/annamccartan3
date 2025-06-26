@@ -1,19 +1,12 @@
 ## :sunflower: Hi there!
 
-I'm **Anna**, a senior at the University of Notre Dame, studying **Biochemistry** and **Data Science**. I’m passionate about employing computational tools to streamline medical research and improve healthcare outcomes. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
-
----
-
-### Goals
-- Communicate data insights through interactive apps and dashboards.  
-- Develop, evaluate, and optimize predictive models.
-- Explore the fundamentals of Natural Language Processing (NLP) and fine-tune large language models (LLMs).  
+I'm **Anna**, an incoming Master's student in **Bioinformatics & Computational Biology** at University College Cork. As a Rotary Global Grant Scholar, I'm committed to using my graduate education to enhance medical outcomes through data-driven research. I graduated from the University of Notre Dame, where I studied Biochemistry and Data Science. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
 
 ---
 
 ### Skills & Interests
 
-- **Languages**: Python, SQL  
+- **Languages**: Python, SQL, R  
 - **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit  
 - **Tools**: Git, GitHub, Jupyter, VS Code  
 - **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation
