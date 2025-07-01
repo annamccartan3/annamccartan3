@@ -7,7 +7,7 @@ I'm **Anna**, an incoming Master's student in **Bioinformatics & Computational B
 ### Skills & Interests
 
 - **Languages**: Python, SQL, R  
-- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit  
+- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit
 - **Tools**: Git, GitHub, Jupyter, VS Code  
 - **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation
 
