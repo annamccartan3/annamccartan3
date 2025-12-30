@@ -1,6 +1,6 @@
 ## :sunflower: Hi there!
 
-I'm **Anna**, an incoming Master's student in **Bioinformatics & Computational Biology** at University College Cork. As a Rotary Global Grant Scholar, I'm committed to using my graduate education to enhance medical outcomes through data-driven research. I graduated from the University of Notre Dame, where I studied Biochemistry and Data Science. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
+I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** at University College Cork. As a Rotary Global Grant Scholar, I'm committed to using my graduate education to enhance medical outcomes through data-driven research. I graduated from the University of Notre Dame, where I studied Biochemistry and Data Science. In my free time, I love hiking, reading mystery novels, and solving crossword puzzles!
 
 ---
 
