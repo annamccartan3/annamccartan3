@@ -18,18 +18,7 @@ I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** a
 | Project | Description |
 |--------|-------------|
 | [**Leaderless Translation**](https://github.com/Champion-Lab/leaderlessTranslation) | Quantify and visualize leaderless translation efficiency in bacteria with this flexible script. |
-| [**DataQuest 💡**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Explore unsupervised ML using clustering and PCA in a Streamlit app. |
-| [**DataFlex 🤖**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate supervised ML models interactively. |
-| [**DogFinder 🐶**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Discover dog breeds based on characteristics using a clean, interactive UI. |
-| [**Gold Standard 🏅**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio/tree/main/TidyData-Project) | Visualize and tidy Olympic data to uncover country-level trends. |
-
-[**See Full Porfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio)
-  
----
-
-### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annamccartan3&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamccartan3&layout=compact)
+| [**Data Science Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) | Explore additional ML and App Design projects. |
 
 ---
 
