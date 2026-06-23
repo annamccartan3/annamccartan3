@@ -6,10 +6,10 @@ I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** a
 
 ### Skills & Interests
 
-- **Languages**: Python, SQL, R  
-- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, Streamlit
-- **Tools**: Git, GitHub, Jupyter, VS Code  
-- **Focus Areas**: Interactive app design, supervised & unsupervised learning, model evaluation
+- **Languages**: Proficient in R, Python, bash/shell scripting, SQL
+- **Tools**: Git/GitHub, AWS, Snowflake, Jupyter, VS Code, Streamlit, Sisense
+- **Libraries**: pandas, NumPy, scikit-learn, matplotlib
+- **Focus Areas**: NGS data analysis, ML classification, computational biology pipelines
 
 ---
 
@@ -18,7 +18,7 @@ I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** a
 | Project | Description |
 |--------|-------------|
 | [**Leaderless Translation**](https://github.com/Champion-Lab/leaderlessTranslation) | Quantify and visualize leaderless translation efficiency in bacteria with this flexible script. |
-| [**Data Science Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) | Explore additional ML and App Design projects. |
+| [**Data Science Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) | Explore my other ML and App Design projects! |
 
 ---
 
