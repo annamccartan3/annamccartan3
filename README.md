@@ -16,7 +16,7 @@ I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** a
 
 | Project | Description |
 |--------|-------------|
-| [**ML Analysis of a Novel Vaginal Microbiome Database**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) | In Progress: A database of 2000+ vaginal samples, quality filtered and mined for potential biomarkers. |
+| **ML Analysis of a Novel Vaginal Microbiome Database** | In Progress: A database of 2000+ vaginal samples, quality filtered and mined for potential biomarkers. |
 | [**Leaderless Translation**](https://github.com/Champion-Lab/leaderlessTranslation) | Quantify and visualize leaderless translation efficiency in bacteria with this flexible script. |
 | [**Portfolio**](https://github.com/annamccartan3/MCCARTAN-Data-Science-Portfolio) | Explore all of my bioinformatics and ML projects! |
 
