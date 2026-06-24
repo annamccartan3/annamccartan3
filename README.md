@@ -6,11 +6,10 @@ I'm **Anna**, a master's student in **Bioinformatics & Computational Biology** a
 
 ### Skills & Interests
 
-- **Languages**: Proficient in R, Python, bash/shell scripting, and SQL
-- **Tools**: Git/GitHub, AWS, Snowflake, Jupyter, VS Code, Streamlit, Sisense
-- **Libraries**: pandas, NumPy, scikit-learn, matplotlib
+- **Languages**: Proficient in R/Shiny, Python, SQL, Bash/Linux scripting
+- **Tools**: Git/GitHub, AWS, Snowflake, Streamlit, Sisense
+- **Libraries**: Bioconductor, pandas, scikit-learn, matplotlib
 - **Focus Areas**: NGS data analysis, ML classification, computational biology pipelines
-
 ---
 
 ### Featured Projects
